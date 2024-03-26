@@ -29,8 +29,8 @@
   <img width="12" />
   <img src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Symbol.png" height="30" alt="tableau logo"  />
   <img width="12" />
-  <img src="https://www.silicon.fr/wp-content/uploads/2019/06/m1mSM9Qf-1280x720.jpg" height="30" alt="powerbi logo" />
-
+  <img src="https://www.silicon.fr/wp-content/uploads/2019/06/m1mSM9Qf-1280x720.jpg" height="30" alt="powerbi logo" width ="40"  />
+  
 </div>
 
 ###

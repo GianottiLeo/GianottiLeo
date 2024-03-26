@@ -22,6 +22,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="30" alt="r logo"  />
   <img width="12" />
   <img src="https://www.silicon.fr/wp-content/uploads/2019/06/m1mSM9Qf-1280x720.jpg" height="30" alt="powerbi logo"  />
+  <img width="12" />
+  <img src="[https://www.silicon.fr/wp-content/uploads/2019/06/m1mSM9Qf-1280x720.jpg](https://w7.pngwing.com/pngs/698/375/png-transparent-powershell-microsoft-windows-management-instrumentation-computer-icons-microsoft-thumbnail.png)" height="30" alt="powerbi logo"  />
 
 </div>
 

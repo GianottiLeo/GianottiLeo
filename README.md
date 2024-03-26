@@ -20,6 +20,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="30" alt="rstudio logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="30" alt="r logo"  />
+  <img width="12" />
+  <img src="https://logosmarcas.net/wp-content/uploads/2022/02/Microsoft-Power-BI-Logo-2013-2016.jpg" height="30" alt="r logo"  />
+
 </div>
 
 ###

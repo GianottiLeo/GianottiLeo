@@ -1,5 +1,5 @@
 <h2 align="left">Hi 👋! My name is Leo</h2>
-<h4 align="left">Hi 👋! My name is Leo
+<h4 align="left"><h2 align="left">I'm a Italian Brazilian data enthusiast 
 
 ###
 

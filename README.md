@@ -21,12 +21,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="30" alt="r logo"  />
   <img width="12" />
-  <img src="https://www.silicon.fr/wp-content/uploads/2019/06/m1mSM9Qf-1280x720.jpg" height="30" alt="powerbi logo"  />
-  <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png" height="30" alt="powerbi logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png" height="30" alt="powershell logo"  />
+  <img width="10" />
+  <img src="https://www.silicon.fr/wp-content/uploads/2019/06/m1mSM9Qf-1280x720.jpg" height="30" alt="powerbi logo" />
 
 </div>
-
 ###
 
 <div align="left">

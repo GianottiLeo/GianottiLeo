@@ -1,14 +1,10 @@
 <h2 align="left">Hi 👋! My name is Leo</h2>
-<h4 align="left">I'm a Italian Brazilian data enthusiast 
+<h3 align="left">I'm a Italian Brazilian data enthusiast 
 
 ###
 
 <div align="center">
 </div>
-
-###
-
-<img align="right" height="150" src="https://i.imgflip.com/8kktlc.gif"  />
 
 ###
 

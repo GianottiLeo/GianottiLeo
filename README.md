@@ -3,18 +3,6 @@
 ###
 
 
-<div align="left">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gianottileo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-###
-
-<div align="center">
-</div>
-
-###
-
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo"  />
@@ -39,6 +27,10 @@
   <img width="12" />
   <img src="https://www.silicon.fr/wp-content/uploads/2019/06/m1mSM9Qf-1280x720.jpg" height="30" alt="powerbi logo" width ="40"  />
   
+###
+
+<div align="left">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gianottileo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 

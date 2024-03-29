@@ -21,10 +21,10 @@
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1667px-Figma-logo.svg.png" height="30" alt="figma logo"  />
   <img width="12" />
-  <img src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Symbol.png" height="30" alt="tableau logo"  />
+  <img src="https://github.com/GianottiLeo/GianottiLeo/assets/164948682/689f447c-fd95-4f5d-a64b-573af2e6c91e" height="30" alt="tableau logo"  />
   <img width="12" />
-  <img src="https://www.silicon.fr/wp-content/uploads/2019/06/m1mSM9Qf-1280x720.jpg" height="30" alt="powerbi logo" width ="40"  />
-  
+  <img src="https://github.com/GianottiLeo/GianottiLeo/assets/164948682/05b9320e-db3f-43b9-97b2-bc547295b1cd" height="30" alt="powerbi logo" width ="40"  />
+ 
 ###
 
 <div align="left">

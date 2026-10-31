@@ -1,6 +1,6 @@
 # Hi, I'm Leo Gianotti 👋
 
-**Senior Data Engineer** · Snowflake · dbt · SQL · Python · São Paulo, Brazil (remote) · EU work authorization
+**Data Architect** · Snowflake · dbt · SQL · Python · São Paulo, Brazil (remote) · EU work authorization
 
 I build data warehouses and pipelines, from raw ingestion to tested, dimensional reporting layers. I have 6+ years across fintech and supply chain, including 3.5 years on Snowflake and 3+ years running dbt in production.
 

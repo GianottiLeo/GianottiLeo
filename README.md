@@ -1,5 +1,3 @@
-<img src="https://github.com/GianottiLeo/GianottiLeo/assets/164948682/1983615a-f14e-45ad-91b7-c6b5a7ea194b" height="160" alt="Leo Gianotti banner" />
-
 # Hi, I'm Leo Gianotti 👋
 
 **Senior Data Engineer** · Snowflake · dbt · SQL · Python · São Paulo, Brazil (remote) · EU work authorization

@@ -32,6 +32,7 @@ I build data warehouses and pipelines, from raw ingestion to tested, dimensional
 |---|---|---|
 | [**NovaDrive pipeline**](https://github.com/GianottiLeo/Datapipe_Process) | End-to-end ELT: Azure Blob → Snowflake → dbt star schema with an incremental fact and tests → Looker | Snowflake, dbt, Azure, SQL |
 | [**dbt CI/CD**](https://github.com/GianottiLeo/CI-CD) | GitHub Actions running `dbt build` in dev on every PR and deploying to prod on merge, with secrets-based profiles and Docker | GitHub Actions, dbt, Snowflake, Docker |
+| [**Safety goal tracking**](https://github.com/GianottiLeo/Safety-Daily-PowerBI) | Bonus-linked goal tracking for 900+ employees: a redesigned attainment rule, 7-level parent-child hierarchy in DAX, recursive-CTE SQL sources and HTML/SVG visuals rendered from DAX | Power BI, DAX, PostgreSQL, SQL |
 | [**Power BI inventory via REST API**](https://github.com/GianottiLeo/Power-Shell-PBI-API) | Scheduled scan of reports, datasets, dataflows and Goals for governance (built at 3M) | PowerShell, Power BI REST API |
 | [**Scrap-or-repair model**](https://github.com/GianottiLeo/Scrap-Project) | Real-client reliability model (ARAm) for locomotive electronics, plus a decision dashboard | Python, R, Power BI |
 | [**Daily scrum KPI app**](https://github.com/GianottiLeo/Power-Apps-Scrum-App) | Power Apps with embedded Power BI reports filtered dynamically through URL-encoded parameters (built at 3M) | Power Apps, Power BI |
